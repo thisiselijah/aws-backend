@@ -1,0 +1,5 @@
+database:
+  username: admin
+  password: andy12345
+  host: mydatabase2.cn00ugsy224g.us-east-1.rds.amazonaws.com:3306
+  name: mydatabase
